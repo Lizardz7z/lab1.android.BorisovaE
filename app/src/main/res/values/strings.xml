@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab1_BorisovaElizaveta</string>
+    <string name="hint_on_enter">Enter name of color</string>
+    <string name="button_act_main">done</string>
+    <string name="button_act_color">back</string>
+    <string name="title_activity_color">ColorActivity</string>
+</resources>
